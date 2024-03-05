@@ -10,7 +10,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println(sayHello());
-        System.out.println(sayHelloToSomeone("  _   _      _ _        __        __         _     _ _ "));
+        System.out.println(sayHelloToSomeone("_   _      _ _        __        __         _     _ _"));
         System.out.println(sayHelloToSomeone("| | | | ___| | | ___   \ \      / /__  _ __| | __| | |"));
         System.out.println(sayHelloToSomeone("| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |"));
         System.out.println(sayHelloToSomeone("|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|"));
