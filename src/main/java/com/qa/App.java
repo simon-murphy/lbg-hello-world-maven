@@ -8,12 +8,33 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println(sayHello());
-        System.out.println(sayHelloToSomeone("Simon M"));
-        System.out.println(sayHelloToSomeone("Gareth S"));
-        System.out.println(sayHelloToSomeone("Peter"));
-        System.out.println(sayHelloToSomeone("Donald"));
-        System.out.println(sayGoodbye());
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("            /~~~~~~~~\\                           _");
+        System.out.println("    ##\\__/ @)      ~~~~~~~~\\                     \\ \\ ) )");
+        System.out.println("    |              /~~\\~~~~~                ((    |  \\");
+        System.out.println("     \\    /           |                          /   |");
+        System.out.println("      (~~~   /         \\____________/~~~~~~~~~~~~   /");
+        System.out.println("       ~~~~|~                                     /");
+        System.out.println("           :                                      |");
+        System.out.println("            \\                                     |");
+        System.out.println("            |                               /      \\");
+        System.out.println("             \\  \\_         :         \\     /~~~\\    |");
+        System.out.println("             /   :~~~~~|   :~~~~~~~~~~|   :     :   :");
+        System.out.println("            /    :    /    :         /    :    /    :");
+        System.out.println("        (~~~     )(~~~     )     (~~~     )(~~~     )");
+        System.out.println("         ~~~~~~~~  ~~~~~~~~       ~~~~~~~~  ~~~~~~~~");
+        System.out.println("          STOMP     STOMP          STOMP     STOMP");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
     }
 
     public static String sayHello(){
