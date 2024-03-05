@@ -20,7 +20,7 @@ public class App
         System.out.println("     \\    /           |                          /   |");
         System.out.println("      (~~~   /         \\____________/~~~~~~~~~~~~   /");
         System.out.println("       ~~~~|~                                     /");
-        System.out.println("           :                                      |");
+        System.out.println("           :           Simons Doggo                |");
         System.out.println("            \\                                     |");
         System.out.println("            |                               /      \\");
         System.out.println("             \\  \\_         :         \\     /~~~\\    |");
