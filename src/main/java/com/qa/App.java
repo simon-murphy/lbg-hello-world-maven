@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println(sayHello());
-        System.out.println(sayHelloToSomeone("SM"));
+        System.out.println(sayHelloToSomeone("SM 2"));
         System.out.println(sayHelloToSomeone("GS"));
         System.out.println(sayHelloToSomeone("AM"));
         System.out.println(sayHelloToSomeone("ES"));
