@@ -10,9 +10,9 @@ public class App
     {
         System.out.println(sayHello());
         System.out.println(sayHelloToSomeone("| | | | ___| | | ___   \ \      / /__  _ __| | __| | |"));
-        System.out.println(sayHelloToSomeone("| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |"));
+        System.out.println(sayHelloToSomeone("| |_| |/ _ \ | |/ _ \   \ \ /\ / / _  | |__| |/ _ | |"));
         System.out.println(sayHelloToSomeone("|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|"));
-        System.out.println(sayHelloToSomeone("|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)"));
+        System.out.println(sayHelloToSomeone("|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\____"));
         System.out.println(sayGoodbye());
     }
 
