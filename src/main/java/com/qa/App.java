@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-         System.out.println("");
+       System.out.println("");
         System.out.println("");
         System.out.println("");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
@@ -32,6 +32,9 @@ public class App
         System.out.println("");
         System.out.println("");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
     }
 
     public static String sayHello(){
