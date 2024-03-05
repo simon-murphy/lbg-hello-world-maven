@@ -9,8 +9,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println(sayHello());
-        System.out.println(sayHelloToSomeone("Simon M"));
-        System.out.println(sayHelloToSomeone("Gareth S"));
+        System.out.println(sayHelloToSomeone("Simon Murphy"));
+        System.out.println(sayHelloToSomeone("Gareth Smyth"));
         System.out.println(sayHelloToSomeone("Peter"));
         System.out.println(sayHelloToSomeone("Donald"));
         System.out.println(sayGoodbye());
