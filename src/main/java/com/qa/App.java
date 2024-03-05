@@ -9,10 +9,10 @@ public class App
     public static void main( String[] args )
     {
         System.out.println(sayHello());
-        System.out.println(sayHelloToSomeone("SM 2"));
-        System.out.println(sayHelloToSomeone("GS"));
-        System.out.println(sayHelloToSomeone("AM"));
-        System.out.println(sayHelloToSomeone("ES"));
+        System.out.println("| | | | ___| | | ___   \ \      / /__  _ __| | __| | |");
+        System.out.println("| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |");
+        System.out.println("|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|");
+        System.out.println("|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)");
         System.out.println(sayGoodbye());
     }
 
